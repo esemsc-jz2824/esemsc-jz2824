@@ -4,7 +4,6 @@
 
 <h2 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Jidan </h2>
 
-- 🔭 I’m a master student focusing in Applied Computational Science and Engineering
 - 👯 I’m looking to discuss **Remote sensing, and AI4Science research**
 - 📫 How to reach me: Please mail me at jacindazhangjd@gmail.com
 - 😄 Still on the way
