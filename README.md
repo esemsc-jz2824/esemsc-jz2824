@@ -4,7 +4,7 @@
 
 <h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,  I'm Jidan </h2>
 
-- 👯 Open to collaboration in **remote sensing, computer vision, and AI4Science research**
+- 👯 Open to collaboration in **remote sensing, computer vision, and numerical modelling research**
 - 📫 How to reach me: Please mail me at jacindazhangjd@gmail.com
 - 😄 Still on the way
 
